@@ -1,0 +1,39 @@
+/* background-color, text-align and font-family added for entire body */
+body {
+    background-color: black;
+    text-align: center;
+    font-family: verdana; sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+/* class comesoon created */
+.comesoon {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+/* combined h1, h2 color */
+h1, h2 {
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: Gray;
+}
+
+/* footer Id created */
+#footer {
+    color: Gray;
+    text-align: right;
+    font-size: 25px;
+}
