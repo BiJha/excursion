@@ -1,3 +1,3 @@
 # excursion
-Create a web page which advertises a product called “Excursion.”
+Create a web page which advertises a product called "Excursion".
 https://bjhacurious.github.io/excursion/
